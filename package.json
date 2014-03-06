@@ -1,8 +1,8 @@
 {
   "name": "gulp-fix-windows-source-maps",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Converts path delimiters in embedded source maps built with Windows from backslashes to forward slashes",
-  "main": "index.coffee",
+  "main": "index.js",
   "repository": {
     "type": "git",
     "url": "https://github.com/smrq/gulp-fix-windows-source-maps.git"
